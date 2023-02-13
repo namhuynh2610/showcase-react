@@ -1,0 +1,68 @@
+
+.heading{
+    display: flex;
+    position: relative;
+    left: 150px;
+  }
+  
+  .text-back{
+    position: absolute;
+    left: 18px;
+    top: 45px;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: #545454;
+  }
+
+  .text-back:hover{
+    opacity: 0.8;
+    cursor: pointer;
+  }
+  
+  .avatar{
+    position: absolute;
+    left: 120px;
+    top: 30px;
+  }
+  
+  .avatar-name{
+    position: absolute;
+    left: 180px;
+    top: 40px;
+    height: 10px;
+    color: #074F63;
+    font-size: 24px;
+    line-height: 10px;
+  }
+  
+  .avatar-job{
+    position: absolute;
+    left: 180px;
+    top: 60px;
+    color: #808080;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .heading-back{
+    margin-right: 20px;
+  }
+  
+  .button-hire{
+    position: absolute;
+    left: 370px;
+    top: 40px;
+    width: 130px;
+    border-radius: 80px;
+    background: #D93F1D;
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    color: #fff;
+  }
+
+  .button-hire:hover{
+    opacity: 0.8;
+  }
+  

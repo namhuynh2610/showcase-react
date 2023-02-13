@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#img1:checked ~.slider-image1{
+  margin-left: -100%;
+}
+#img2:checked ~.slider-image2{
+  margin-left: -200%;
+}
+#img3:checked ~.slider-image3{
+  margin-left: -300%;
+}
+
+

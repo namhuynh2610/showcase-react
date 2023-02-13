@@ -1,0 +1,76 @@
+.heading-info{
+  position: absolute;
+  top: 3300px;
+  left: 270px;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 700;
+  color: #074F63;
+
+}
+
+.card-info{
+    position: absolute;
+    top: 3400px;
+    left: 500px;
+    width: 22%;
+    height: 170px;
+    background: #fff !important;
+    box-shadow: -2px 2px 10px #888888;
+  }
+  
+  .fa-solid{
+    font-size: 22px;
+  }
+  .gmail-text{
+    padding-left: 5px;
+  }
+  .phone-text{
+    padding-left: 5px;
+  }
+  .location-text{
+    padding-left: 5px;
+  }
+  
+  .github{
+    position: absolute;
+    top: 3430px;
+    left: 900px;
+    width: 300px;
+    border: 1px solid #EFEFEF;
+    border-radius: 5px;
+    padding-left: 10px;
+  }
+  .github-text{
+    padding-left: 5px;
+    color: #000;
+  }
+  .linkedin{
+    position: absolute;
+    top: 3475px;
+    left: 900px;
+    width: 300px;
+    border: 1px solid #EFEFEF;
+    border-radius: 5px;
+    padding-left: 10px;
+  }
+  .linkedin-text{
+    padding-left: 5px;
+    color: #000;
+  }
+  .facebook{
+    position: absolute;
+    top: 3520px;
+    left: 900px;
+    width: 300px;
+    border: 1px solid #EFEFEF;
+    border-radius: 5px;
+    padding-left: 10px; 
+  }
+  .facebook-text{
+    padding-left: 5px;
+    color: #000;
+  }
+  .fa-brands{
+    font-size: 22px;
+  }
